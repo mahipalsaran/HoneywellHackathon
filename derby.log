@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Oct 28 10:12:01 IST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015f-6149-67e2-000001ff8108 
+on database directory /Users/mahipal/Documents/DerbyDB/newDB with class loader sun.misc.Launcher$AppClassLoader@2a139a55 
+Loaded from file:/Users/mahipal/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-b12
+user.dir=/Users/mahipal/Documents/HoneyWellHackathon
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.12.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
